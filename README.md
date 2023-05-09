@@ -5,5 +5,5 @@
 
 ## Credits
 Map by Airvulpes, ported to css by xen, backported to csgo by koen.
-Knightmare stripper (s7f2) by nuclear silo.
+Knightmare stripper (s7f2) by nuclear silo.  
 **Special thanks for Koen to add the knightmare CC into the map.**
